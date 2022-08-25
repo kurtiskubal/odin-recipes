@@ -1,0 +1,37 @@
+h1, h2, p, a, li
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav
+{
+    list-style: none;
+    background-color: black;
+    height: 30px;
+    margin: auto;
+    
+}
+
+.nav a
+{
+    color: white;
+}
+
+.nav li
+{
+    display: inline;
+    float: left;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+img
+{
+    width: 300px;
+    height: auto;
+}
+
+body
+{
+    background-color: antiquewhite;
+}

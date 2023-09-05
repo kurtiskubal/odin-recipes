@@ -1,0 +1,29 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: fit-content;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    background-color: blue;
+    color: white;
+}
+
+ol {
+    background-color: red;
+    color: white;
+}
+
+a {
+    color: white;
+    background-color: black;
+}
+
+a:hover {
+    color: blue;
+    background-color: white;
+}
